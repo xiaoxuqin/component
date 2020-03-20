@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#language {
+    text-align: center;
+}
+#hot-display-license-info{
+    display: none;
+}
+.all {
+    width: 100%; 
+    margin:20px auto 80px auto; 
+}
+#example {
+    width: 800px;
+    margin: 0 auto;
+}
+tr{
+    height:26px;
+    text-align: center; 
+}
+#main {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
