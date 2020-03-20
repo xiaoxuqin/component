@@ -1,2 +1,0 @@
-# component
-使用handsontable与Echarts实现效果
